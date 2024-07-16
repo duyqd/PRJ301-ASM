@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/src/java/dal/UserDBContext.java</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/error.jsp</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/src/java/dal/DBContext.java</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/src/java/dal/GradeDBContext.java</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/src/java/dal/ExamDBContext.java</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/index.html</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/view/exam/lecturer.jsp</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/view/auth/login.jsp</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/src/java/controller/exam/TakeExamController.java</file>
+            <file>file:/D:/PRJ301/DemoAssignmentWithLogin/web/view/exam/take.jsp</file>
+        </group>
+    </open-files>
+</project-private>
